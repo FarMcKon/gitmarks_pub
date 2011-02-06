@@ -158,4 +158,20 @@
         "linux_tutorial", 
         "howto"
     ]
+}{
+    "extended": "", 
+    "hash": "082d479d946d5e9ebd891509446d9cbc", 
+    "description": "SSH and SCP: Howto, tips & tricks \\u00ab Linux Tutorial Blog", 
+    "rights": null, 
+    "creator": "delicious:farmckon", 
+    "uri": "http://www.linuxtutorialblog.com/post/ssh-and-scp-howto-tips-tricks", 
+    "private": false, 
+    "meta": "09f8b3205ee44cac3a94305db4337a7b", 
+    "time": "2011-02-05T21:16:48Z", 
+    "tags": [
+        "ssh", 
+        "scp", 
+        "linux_tutorial", 
+        "howto"
+    ]
 }
